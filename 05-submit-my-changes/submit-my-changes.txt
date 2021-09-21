@@ -1,0 +1,13 @@
+1. - git clone https://github.com/yeojaxr/tech4impact-students-bio.git
+   - cd tech4impact-students-bio
+2. git remote -v
+3. - git branch ike
+   - git branch -v
+4. git checkout ike
+5. touch ike.md
+6. code .
+7. git add .
+8. git commit -m "ike.md"
+9. git status
+10. git push origin ike
+11. melakukan pull request melalui github, bisa dilihat a=pada result
